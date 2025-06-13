@@ -1,7 +1,7 @@
 # Agentic-RAGs-The-Dominant-AI-Agent-Architecture-of-2025
 
 
-
+![image](upload)
 
 # 🧠 RAG Chatbot System Overview
 
