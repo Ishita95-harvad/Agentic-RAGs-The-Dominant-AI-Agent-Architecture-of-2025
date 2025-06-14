@@ -16,23 +16,23 @@ This project implements a **Retrieval Augmented Generation (RAG) architecture** 
 📂 RAG-Chatbot-System 
 
 │── 📄 README.md         
-# Project documentation 
+### Project documentation 
 │── 📂 data/               
-# Indexed external documents for retrieval
+### Indexed external documents for retrieval
 │── 📂 embeddings/          
-# Vectorized document representations
+### Vectorized document representations
 │── 📂 models/               
-# LLM integrations & fine-tuning scripts 
+### LLM integrations & fine-tuning scripts 
 │── 📂 retrieval/              
-# Query-processing & data-fetching mechanisms 
+### Query-processing & data-fetching mechanisms 
 │── 📂 results/            
-# Response analysis & evaluations 
+### Response analysis & evaluations 
 │── 📂 config/              
-# System configurations & API keys 
+### System configurations & API keys 
 │── 📄 requirements.txt       
-# Dependencies for chatbot execution
+### Dependencies for chatbot execution
 │── 📄 LICENSE                
-# Legal information about usage
+### Legal information about usage
 
 ## 🔍 System Architecture
 The chatbot system consists of:
